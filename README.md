@@ -1,5 +1,8 @@
 # Employee_tracker
 
+## Description
+A Node CLI that allows a user to track an organizational structure.
+
 ## Installation
 Clone repo via HTML or SSH and run `npm i` in directory before launching index.js
 
